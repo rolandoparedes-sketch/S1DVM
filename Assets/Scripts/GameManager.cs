@@ -54,5 +54,7 @@ public class GameManager : MonoBehaviour
 
         Gizmos.DrawWireCube(transform.position, Vector3.one *2f);
 
+
+
     }
 }
